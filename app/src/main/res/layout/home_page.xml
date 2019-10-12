@@ -14,6 +14,15 @@
         android:gravity="right"
         android:padding="10sp"
         />
+
+    <ToggleButton
+        android:id="@+id/onOff"
+        android:layout_alignParentRight="true"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/toggle"
+        android:layout_marginBottom="-66dp" />
+
     <Button
         android:id="@+id/sound"
         android:layout_width="300dp"

@@ -67,6 +67,7 @@ DrawerLayout drawer=null;
     TextView tvNumber2;
 
     TextView name;
+
     Button add_contacts;
      LinearLayout mLinearLayout;
 
@@ -87,6 +88,7 @@ DrawerLayout drawer=null;
         FloatingActionButton fab = v.findViewById(R.id.fab);
         tvNumber1=(TextView)v.findViewById(R.id.tvNumber1);
          tvNumber2=(TextView)v.findViewById(R.id.tvNumber2);
+
         name = (TextView)v.findViewById(R.id.name);
         db = FirebaseFirestore.getInstance();
 
@@ -103,6 +105,7 @@ DrawerLayout drawer=null;
                             tvNumber2.setText(documentSnapshot.getString("email"));
                             tvNumber1.setText(documentSnapshot.getString("phone"));
                             name.setText(documentSnapshot.getString("name"));
+
 
                         }
                         else{
