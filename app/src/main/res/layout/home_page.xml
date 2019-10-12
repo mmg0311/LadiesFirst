@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/toggle"
+        android:checked="true"
+        android:text="Auto"
+        android:textOff="OFF"
+        android:textOn="ON"
+        android:textSize="25dp"
+        android:gravity="right"
+        android:padding="10sp"
+        />
+    <Button
+        android:id="@+id/sound"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@drawable/button_bg_round"
+        android:padding="15dp"
+        android:layout_centerInParent="true"
+        android:onClick="alarm"
+        android:text="Alarm" />
+
+</RelativeLayout>

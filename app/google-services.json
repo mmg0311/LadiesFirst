@@ -1,0 +1,175 @@
+{
+  "project_info": {
+    "project_number": "561952573830",
+    "firebase_url": "https://womensapp-8faf7.firebaseio.com",
+    "project_id": "womensapp-8faf7",
+    "storage_bucket": "womensapp-8faf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561952573830:android:eaa0d3b283b8c601500407",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthenticate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561952573830-0m4ltm3qt545ihppcavp8v51lgo8p09f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauthenticate",
+            "certificate_hash": "3903ef6cb8832d8df7feec5c8cd1e70bfa60a8ef"
+          }
+        },
+        {
+          "client_id": "561952573830-4bi5ias6o03tk5aqjv5dfal5e004ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXH7XLtPVJbMM168RtQ1bebFlhzjQH5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561952573830-4bi5ias6o03tk5aqjv5dfal5e004ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561952573830:android:7ebc9e2bcea45f79500407",
+        "android_client_info": {
+          "package_name": "com.example.ladiesfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561952573830-masl2v3d6annuctj8k1e8se1p9dtdkvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ladiesfirst",
+            "certificate_hash": "2394243e1e1f0aa978e05dc6a4c3f9ebee1201d1"
+          }
+        },
+        {
+          "client_id": "561952573830-mdglbsg9nb6p9l5pb1p2r5phfftt9e1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ladiesfirst",
+            "certificate_hash": "3903ef6cb8832d8df7feec5c8cd1e70bfa60a8ef"
+          }
+        },
+        {
+          "client_id": "561952573830-4bi5ias6o03tk5aqjv5dfal5e004ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXH7XLtPVJbMM168RtQ1bebFlhzjQH5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561952573830-4bi5ias6o03tk5aqjv5dfal5e004ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561952573830:android:f33c151a1cdbf097500407",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561952573830-d7ggflseif11gv7b7i8l2o06m01gmnpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "3903ef6cb8832d8df7feec5c8cd1e70bfa60a8ef"
+          }
+        },
+        {
+          "client_id": "561952573830-4bi5ias6o03tk5aqjv5dfal5e004ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXH7XLtPVJbMM168RtQ1bebFlhzjQH5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561952573830-4bi5ias6o03tk5aqjv5dfal5e004ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561952573830:android:2636918352e2eab9500407",
+        "android_client_info": {
+          "package_name": "com.hellomohak.womensapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561952573830-etekr7jkp2kvdqa1eqgh49sdmstpgdgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellomohak.womensapp",
+            "certificate_hash": "3903ef6cb8832d8df7feec5c8cd1e70bfa60a8ef"
+          }
+        },
+        {
+          "client_id": "561952573830-3s5lb1d131qc5vu6gahclntehsnmt8e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellomohak.womensapp",
+            "certificate_hash": "2394243e1e1f0aa978e05dc6a4c3f9ebee1201d1"
+          }
+        },
+        {
+          "client_id": "561952573830-4bi5ias6o03tk5aqjv5dfal5e004ohnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXH7XLtPVJbMM168RtQ1bebFlhzjQH5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561952573830-4bi5ias6o03tk5aqjv5dfal5e004ohnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

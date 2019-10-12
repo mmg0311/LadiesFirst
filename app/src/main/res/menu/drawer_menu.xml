@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person"
+            android:title="Profile" />
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/register"
+            android:title="Register"/>
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/ic_map_icon"
+            android:title="Maps" />
+        <item
+            android:id="@+id/alarm"
+            android:icon="@drawable/ic_add_alarm"
+            android:title="Set alarm" />
+
+    </group>
+    <item android:title="Help">
+        <menu>
+            <item
+                android:id="@+id/share_location"
+                android:icon="@drawable/ic_map_icon"
+                android:title="Share Location" />
+            <item
+                android:id="@+id/emergency"
+                android:icon="@drawable/ic_app_icon"
+                android:title="Emergency" />
+            <item
+                android:id="@+id/sos"
+                android:icon="@drawable/ic_app_icon"
+                android:title="SOS" />
+        </menu>
+    </item>
+</menu>
